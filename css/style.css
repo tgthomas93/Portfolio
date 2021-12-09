@@ -92,10 +92,9 @@ p {
     margin: 0;
 }
 .description {
-    background: #FFABAB;
+    background: #700009;
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
-    color: #700009;
     font-size: 25px;
     margin: 0 0 5px 0;
 }
