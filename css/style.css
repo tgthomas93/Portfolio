@@ -91,6 +91,13 @@ p {
     line-height: 24px;
     margin: 0;
 }
+.description {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #222222;
+    font-size: 25px;
+    margin: 0 0 5px 0;
+}
 
 /* Header Styles
 ---------------------------------*/
