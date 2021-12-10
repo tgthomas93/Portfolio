@@ -86,6 +86,15 @@ h6 {
     text-align: center;
     margin: 0 0 60px 0;
 }
+h7 {
+    font-size: 38px;
+    color: #222222;
+    font-family: 'Raleway', sans-serif;
+    font-weight: normal;
+    margin: 0px 0 25px 0;
+    text-align: left;
+    text-transform: capitalize;
+}
 
 p {
     line-height: 24px;
