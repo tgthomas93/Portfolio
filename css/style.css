@@ -59,6 +59,15 @@ body {
     color: #888888;
     margin: 0;
 }
+h1 {
+    font-size: 38px;
+    color: #222222;
+    font-family: 'Raleway', sans-serif;
+    font-weight: normal;
+    margin: 0px 0 25px 0;
+    text-align: left;
+    text-transform: capitalize;
+}
 
 h2 {
     font-size: 38px;
@@ -85,15 +94,6 @@ h6 {
     font-weight: 400;
     text-align: center;
     margin: 0 0 60px 0;
-}
-h7 {
-    font-size: 38px;
-    color: #222222;
-    font-family: 'Raleway', sans-serif;
-    font-weight: normal;
-    margin: 0px 0 25px 0;
-    text-align: left;
-    text-transform: capitalize;
 }
 
 p {
