@@ -942,7 +942,7 @@ img {
     -moz-transition: all 0.3s ease-in-out;
     -webkit-transition: all 0.3s ease-in-out;
 }
-.features_list{
+.features_list ul li{
     list-style:circle;
 }
 
@@ -1096,7 +1096,7 @@ img {
     position: relative;
 }
 
-#filters ul li {
+#filters ul 
     display: inline-block;
     margin: 0 5px;
 }
