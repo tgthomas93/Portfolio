@@ -942,6 +942,9 @@ img {
     -moz-transition: all 0.3s ease-in-out;
     -webkit-transition: all 0.3s ease-in-out;
 }
+.features_list{
+    list-style:circle;
+}
 
 .input-text:focus {
     border: 1px solid #fff;
