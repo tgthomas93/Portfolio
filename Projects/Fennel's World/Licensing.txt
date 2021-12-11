@@ -1,0 +1,3 @@
+Models, Prefabs, and all animations are used from the free assets section of the Unity store
+Sound effects for collecting fruit and player death are created by Taylor Thomas using the software located at https://sfbgames.itch.io/chiptone
+All scripting done by Taylor Thomas
