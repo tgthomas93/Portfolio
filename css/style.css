@@ -943,7 +943,7 @@ img {
     -webkit-transition: all 0.3s ease-in-out;
 }
 .features_list ul li{
-    list-style:circle;
+    list-style:disc;
 }
 
 .input-text:focus {
